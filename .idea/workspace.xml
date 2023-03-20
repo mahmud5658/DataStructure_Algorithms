@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8f9c9d9-a969-4232-85bd-aeb2b2d7f2bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure_Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Summation.java" afterDir="false" />
+    <list default="true" id="d8f9c9d9-a969-4232-85bd-aeb2b2d7f2bb" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/src/Array/Summation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Summation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +66,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679328803830</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1679329749401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679329749401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

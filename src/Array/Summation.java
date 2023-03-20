@@ -1,3 +1,5 @@
+
+// Basic input and output of array using java
 package Array;
 import java.util.Scanner;
 public class Summation {
