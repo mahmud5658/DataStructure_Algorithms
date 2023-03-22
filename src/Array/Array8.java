@@ -12,16 +12,14 @@ public class Array8 {
         System.out.println("Enter resize array length: ");
         int size = sc.nextInt();
         int[] temp = new int[size];
-        for (int i = 0; i < arr.length; i++) {
-            temp[i] = arr[i];
-        }
+        System.arraycopy(arr, 0, temp, 0, arr.length);
         return temp;
     }
 
     //print array
     public void printArray(int[] arr) {
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ");
+        for (int j : arr) {
+            System.out.print(j + " ");
         }
         System.out.println();
     }
@@ -45,5 +43,7 @@ public class Array8 {
         a1.printArray(arr);
         int[] arr2 = a1.resizeArray(arr);
         a1.printArray(arr2);
+        System.out.println("Size of array: "+arr.length);
+        System.out.println("After resize the size of the array: "+arr2.length);
     }
 }
