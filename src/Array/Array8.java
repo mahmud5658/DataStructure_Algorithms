@@ -43,7 +43,7 @@ public class Array8 {
         a1.printArray(arr);
         int[] arr2 = a1.resizeArray(arr);
         a1.printArray(arr2);
-        System.out.println("Size of array: "+arr.length);
-        System.out.println("After resize the size of the array: "+arr2.length);
+        System.out.println("Size of array: " + arr.length);
+        System.out.println("After resize the size of the array: " + arr2.length);
     }
 }
