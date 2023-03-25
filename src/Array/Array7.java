@@ -35,8 +35,8 @@ public class Array7 {
 
     //print array
     public void printArray(int[] arr) {
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ");
+        for (int j : arr) {
+            System.out.print(j + " ");
         }
         System.out.println();
     }
@@ -44,7 +44,7 @@ public class Array7 {
     // main method
     public static void main(String[] args) {
         Array7 a1 = new Array7();
-        int arr[] = a1.inputArray();
+        int[] arr = a1.inputArray();
         System.out.println("Your entered array: ");
         a1.printArray(arr);
         int[] result = a1.moveZeros(arr);
