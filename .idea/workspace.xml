@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8f9c9d9-a969-4232-85bd-aeb2b2d7f2bb" name="Changes" comment="Array">
-      <change afterPath="$PROJECT_DIR$/src/Array/Array15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,59 +49,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array15">
-    <configuration name="Array11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array11" />
-      <module name="DataStructure_Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array12" />
-      <module name="DataStructure_Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array13" />
-      <module name="DataStructure_Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array14" />
-      <module name="DataStructure_Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LinkedList4">
     <configuration name="Array15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Array15" />
       <module name="DataStructure_Algorithms" />
@@ -112,13 +63,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList1" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList2" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList3" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList4" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList4" />
+        <item itemvalue="Application.LinkedList3" />
+        <item itemvalue="Application.LinkedList2" />
+        <item itemvalue="Application.LinkedList1" />
         <item itemvalue="Application.Array15" />
-        <item itemvalue="Application.Array14" />
-        <item itemvalue="Application.Array13" />
-        <item itemvalue="Application.Array12" />
-        <item itemvalue="Application.Array11" />
       </list>
     </recent_temporary>
   </component>
