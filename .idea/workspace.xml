@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8f9c9d9-a969-4232-85bd-aeb2b2d7f2bb" name="Changes" comment="singly linked list">
-      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedList6">
-    <configuration name="LinkedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList2" />
-      <module name="DataStructure_Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SinglyLinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LinkedList7">
     <configuration name="LinkedList3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList3" />
       <module name="DataStructure_Algorithms" />
@@ -113,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedList7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList7" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList7" />
         <item itemvalue="Application.LinkedList6" />
         <item itemvalue="Application.LinkedList5" />
         <item itemvalue="Application.LinkedList4" />
         <item itemvalue="Application.LinkedList3" />
-        <item itemvalue="Application.LinkedList2" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682857467462</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="singly linked list">
+      <created>1682955436843</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1682955436843</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
