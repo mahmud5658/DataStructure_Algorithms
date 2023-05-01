@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8f9c9d9-a969-4232-85bd-aeb2b2d7f2bb" name="Changes" comment="Array">
-      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList4.java" afterDir="false" />
+    <list default="true" id="d8f9c9d9-a969-4232-85bd-aeb2b2d7f2bb" name="Changes" comment="singly linked list">
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,33 +47,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedList4">
-    <configuration name="Array15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array15" />
-      <module name="DataStructure_Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList1" />
-      <module name="DataStructure_Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SinglyLinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LinkedList6">
     <configuration name="LinkedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList2" />
       <module name="DataStructure_Algorithms" />
@@ -115,13 +87,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedList5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList5" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.LinkedList6" />
+      <module name="DataStructure_Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList6" />
+        <item itemvalue="Application.LinkedList5" />
         <item itemvalue="Application.LinkedList4" />
         <item itemvalue="Application.LinkedList3" />
         <item itemvalue="Application.LinkedList2" />
-        <item itemvalue="Application.LinkedList1" />
-        <item itemvalue="Application.Array15" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679716000092</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="singly linked list">
+      <created>1682857467462</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1682857467462</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +277,7 @@
     <MESSAGE value="array" />
     <MESSAGE value="&#10;array" />
     <MESSAGE value="Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array" />
+    <MESSAGE value="singly linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="singly linked list" />
   </component>
 </project>
